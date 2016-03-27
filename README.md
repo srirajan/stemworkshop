@@ -3,26 +3,29 @@
 ## Profile
 
 ### Group size
-Min of 10, Max 20
+ - Min of 10, Max 20
+ - Pairs of 2  (what do if there are odd numbers?)
 
 ### Age group
-10 - 15 years
+ - 10 - 15 years
 
 ### Duration
-3 to 4 hours
+ - 3 to 4 hours
 
 
 ### Workshop managers
-1 person delivering this
-1-2 helpers in the room
+ - 1 person delivering this
+ - 1-2 helpers in the room
 
 
 ## Preparation
 
 ### Classroom Setup
- - Classroom style setting with internet accessible computers.
+ - Classroom style setting with internet accessible computers. What happens if internet is not working?
 
- - Notepad or an editor 
+ - Notepad or an editor
+ 
+ - Everything else should be provided by the lab setup (Putty, brownser)
  
 
 ### Cloud Setup
