@@ -31,7 +31,7 @@ Build a half day workshop with hands on labs around building and deploying a web
 
  - Notepad or an editor
  
- - Everything else should be provided by the lab setup (Putty, brownser)
+ - Everything else should be provided by the lab setup (Putty, browser)
  
 
 ### Cloud Setup
@@ -39,6 +39,12 @@ Build a half day workshop with hands on labs around building and deploying a web
  - Cloud accounts
  - User accounts
  - Limited privileges
+
+
+### Swag 
+
+ - Some Rackspace gear and stuff
+ - Handouts for free cloud accounts etc
 
 
 ## Workshop
@@ -90,7 +96,7 @@ Other ideas:
 
 ## TODO
  - Decide on language
- - Build existng code base or reuse
+ - Build existing code base or reuse
  - Automate provisioning of this
  - Logo https://logotypemaker.com 
  - https://code.org/educate/resources/videos
