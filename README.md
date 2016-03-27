@@ -1,4 +1,4 @@
-# Workshop - Building a website in the Cloud
+# Building and deploying a website in the Cloud
 
 ## Overview
 
