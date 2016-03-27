@@ -1,6 +1,12 @@
 # Workshop - Building a website in the Cloud
 
+## Overview
+
+Build a half day workshop with hands on labs around building and deploying a website on a cloud platform. Build the workshop as group activity with one half doing the development work and the other half deploying it. 
+
+
 ## Profile
+
 
 ### Group size
  - Min of 10, Max 20
@@ -87,3 +93,6 @@ Other ideas:
  - Build existng code base or reuse
  - Automate provisioning of this
  - Logo https://logotypemaker.com 
+ - https://code.org/educate/resources/videos
+ - http://nodeschool.io/#workshoppers
+ - http://www.informit.com/store/git-and-github-livelessons-workshop-9780133991772
